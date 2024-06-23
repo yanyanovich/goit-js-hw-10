@@ -40,3 +40,7 @@
   font-size: 28px;
   font-weight: 500;
 }
+form {
+  max-width: 600px;
+  margin-top: 50px;
+}
