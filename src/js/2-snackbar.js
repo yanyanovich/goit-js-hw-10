@@ -63,4 +63,6 @@ function onSubmit(event) {
         messageLineHeight: '1.5',
       });
     });
+
+  event.target.reset();
 }
